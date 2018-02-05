@@ -100,7 +100,7 @@ int main(int argc, char* argv[]){
                      writen(clientfd[i], buf, n);
                  }
                  if(--nready == 0)
-                     break;
+                     break; 
              }
          }
     }
