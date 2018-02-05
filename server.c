@@ -4,7 +4,6 @@
 #include "myerror.h"
 #include <sys/select.h>
 
-
 #define PORT 8687
 #define BUFSIZE 1000
 
